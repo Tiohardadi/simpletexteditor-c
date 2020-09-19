@@ -16,6 +16,8 @@ SimpleTextEditor ini memiliki beberapa fitur
 
 ## Tampilan Aplikasi
 
+- Show SideTab 
 ![SideTab](1.PNG)
+- Hide SideTab 
 ![NoSideTab](2.PNG)
 
