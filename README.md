@@ -1,0 +1,2 @@
+# SimpleTextEditor - C
+
